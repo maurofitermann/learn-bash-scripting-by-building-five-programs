@@ -116,3 +116,4 @@ help if
 ./countdown.sh 5
 HELP
 help
+help [[ expression ]]
