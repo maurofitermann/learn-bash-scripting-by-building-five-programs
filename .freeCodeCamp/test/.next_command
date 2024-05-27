@@ -71,3 +71,4 @@ echo --help
 echo man
 man echo
 ./questionnaire.sh
+./questionnaire.sh
