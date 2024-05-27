@@ -259,3 +259,4 @@ echo $VAR
 [[ "hello world" == \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh
