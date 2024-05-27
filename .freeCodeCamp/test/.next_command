@@ -112,3 +112,4 @@ help if
 ./countdown.sh arg1
 ./countdown.sh argaaa
 ./countdown.sh argaaa
+./countdown.sh 4
