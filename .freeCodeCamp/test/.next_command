@@ -113,3 +113,4 @@ help if
 ./countdown.sh argaaa
 ./countdown.sh argaaa
 ./countdown.sh 4
+./countdown.sh 5
