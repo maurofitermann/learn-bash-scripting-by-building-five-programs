@@ -72,3 +72,4 @@ echo man
 man echo
 ./questionnaire.sh
 ./questionnaire.sh
+__vsc_prompt_cmd_original
