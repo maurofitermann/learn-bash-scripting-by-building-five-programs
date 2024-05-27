@@ -151,3 +151,4 @@ countdown.sh 1
 help if
 help if
 help
+./countdown.sh 10
