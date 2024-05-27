@@ -58,3 +58,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto -l
 chmod +x questionnaire.sh
 ls --color=auto -l
+./questionnaire.sh
